@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">サイコロ</string>
+    <string name="message_start_touch">画面タッチでサイコロが転がります！</string>
+    <string name="message_stop_touch">画面タッチでサイコロが止まります！</string>
+</resources>
